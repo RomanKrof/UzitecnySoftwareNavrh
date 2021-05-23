@@ -7,7 +7,7 @@ krof.roman.2018@skola.ssps.cz <br/>
 
 * Úvod
   * Účel dokumentu
-    * Dokument slouží k rychlému seznámení se systémem a jeho vlastnostmi
+    * Dokument slouží k rychlému představení programu
   * Konvence dokumentu
     * Všechny kritické požadavky budou tučně
   * Pro koho je dokument určený
@@ -16,22 +16,22 @@ krof.roman.2018@skola.ssps.cz <br/>
     * https://github.com/RomanKrof/UzitecnySoftwareKrof.git (Záměr)
 * Scénáře
   * Všechny reálné způsoby použití
-    * ghsdrgh
+    * Dokument bude možné použít jako deník nebo zápisník pro schůzky a konference uživatele
   * Typy uživatelských rolí, „personas“
     * grsg
   * Detaily, motivace, „živé“ příklady
     * hdbhghb
   * Vymezení rozsahu – co v programu **NEbude**
-    * gdsgd
-  * Na co se **NEbude** klást důraz (výkonnost)
-    * hgdhbg
+    * Program nebude obsahovat kalendář
+  * Na co se **NEbude** klást důraz
+    * Nebude se klást důraz na rychlost zápisu schůzek
 * Celková hrubá architektura
   * Pracovní tok
     * htdh
   * Hlavní moduly
     * gdsrg
   * Všechny detaily: obrazovky, okna, tisky, chybové zprávy, logování
-    * ghdth
+    * Program bude jedno okno na obrazovce, k úpravě informací vyskočí menší podokno, bude potřeba pouze klávesnice a myš s monitorem, při chybě vyskočí jiné podokno
   * Všechny možné toky programu a jejich projevy
     * hdhd
   * Všechny dohodnuté principy
