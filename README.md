@@ -11,7 +11,7 @@ krof.roman.2018@skola.ssps.cz <br/>
   * Konvence dokumentu
     * Všechny kritické požadavky budou tučně
   * Pro koho je dokument určený
-    * Pro uživatele programu - managery, sekretářky, pro někoho, kdo není sběhlý v IT
+    * Pro uživatele programu - managery, sekretářky, někdo, kdo není sběhlý v IT - začátečníci
   * Ostatní dokumenty
     * https://github.com/RomanKrof/UzitecnySoftwareKrof.git (Záměr)
 * Scénáře
